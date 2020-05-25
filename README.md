@@ -1,2 +1,2 @@
-# 100DaysOfCode
-C++ implementation 
+# :star:100DaysOfCode
+## C++ implementation of HackerRank Problems.
