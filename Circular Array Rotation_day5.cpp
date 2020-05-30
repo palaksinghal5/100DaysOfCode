@@ -13,5 +13,6 @@ for(int i=0;i<q;i++){
     cout<<ar[(n-k+a)%n]<<"\n";
 
 }
+    
 return 0;
 }
