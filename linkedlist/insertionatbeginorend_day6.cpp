@@ -14,6 +14,13 @@ struct node{
 };
 node* head;
 
+void InsertatBeg(int x){
+    node* temp=new node();
+    temp->data=x;
+    temp->link=head;
+    head=temp;
+}
+
 void InsertatEnd(int x){
   node* temp=new node();
   temp->data=x;
@@ -56,6 +63,10 @@ int main(){
         cin>>a;
         InsertatEnd(a);
          
-    }Print();
+    }
+    int r;
+    cin>>r;
+    InsertatBeg(r);
+    Print();
     
 }
