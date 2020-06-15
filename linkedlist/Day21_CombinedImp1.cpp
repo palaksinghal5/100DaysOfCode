@@ -61,6 +61,7 @@ void InsertatN(int n,int x){
     
 }
 
+
 void Print(){
     
     node* temp=head;
