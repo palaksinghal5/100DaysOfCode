@@ -1,4 +1,5 @@
 #include <iostream>
+#include<algorithm>
 
 using namespace std;
 
@@ -18,6 +19,7 @@ int main()
           cin>>a[j];
       }
       
+      sort(a,a+n);
       for(int q=0;q<p;q++)
       {
           
