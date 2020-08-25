@@ -1,6 +1,6 @@
 # :star:100DaysOfCode
 ## C++ implementation of HackerRank Problems.
-## C++ implementation of Linear Data Structures: 
+## C++ implementation of Data Structures: 
  * Linked List
  * Arrays
  * Stacks
