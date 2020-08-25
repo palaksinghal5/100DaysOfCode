@@ -5,3 +5,4 @@
  * Arrays
  * Stacks
  * Queue
+ * Binary Search Tree
